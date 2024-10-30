@@ -1,0 +1,23 @@
+/* Custom styles that might not be easily achieved with Tailwind alone */
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Transaction card hover effect */
+.transaction-card:hover {
+  transform: translateY(-2px);
+}
+
+/* Loading spinner if needed */
+.loading-spinner {
+  text-align: center;
+  padding: 2rem;
+  color: #666;
+}
+
+/* Any custom animations or transitions */
+.transition-transform {
+  transition: transform 0.3s ease;
+}
