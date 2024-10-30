@@ -7,13 +7,13 @@ A robust financial management system built with Spring Boot and MySQL that helps
 
 ## Features
 
-- 🔐 Secure user authentication and authorization
+
 - 💰 Track income and expenses
 - 📊 Categorize transactions
-- 📅 Date-wise transaction history
-- 📈 Financial analytics and reporting
+- 📅 Date-wise transaction history -> to be added
+- 📈 Financial analytics and reporting -> to be added
 - 🎯 Budget planning and monitoring
-- 📱 Responsive design for mobile and desktop
+- 📱 Responsive design for desktop
 
 ## Tech Stack
 
